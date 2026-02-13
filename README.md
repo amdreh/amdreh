@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o André Garcia! 👋
 
-<!--
-**amdreh/amdreh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+Sou de Cabo Frio/RJ e um entusiasta de cultura pop e tecnologia. Meu foco é transformar grandes volumes de informação em decisões estratégicas através da análise de dados, utilizando ferramentas como **SQL**, **Python** e **Power BI**. 
 
-Here are some ideas to get you started:
+Atualmente, estou desenvolvendo projetos práticos para o meu portfólio e focado na transição de carreira para a análise de dados, em busca da minha primeira oportunidade na área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Minhas Habilidades
+* **Banco de Dados:** SQLite, BigQuery (Google), Db2 (IBM)
+* **Linguagens:** SQL, Python (Numpy | Pandas), DAX, R
+* **Softwares:** SQLiteStudio, Microsoft Excel, Microsoft Power BI
+ 
+### 📈 Projetos em Destaque
+* [**Análise de Mercado de Games**](link-do-repositorio-em-breve): Extração e limpeza de dados históricos utilizando SQL para identificar tendências de vendas globais por década.
+
+### 📫 Como me encontrar
+* **LinkedIn:** https://www.linkedin.com/in/analistadedados-andregarcia/
+* **Email:** amdreh@gmail.com
