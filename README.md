@@ -1,7 +1,7 @@
 # Olá, eu sou o André Garcia! 👋
 
 ## 🚀 Sobre mim
-Sou de Cabo Frio/RJ e um entusiasta de cultura pop e tecnologia. Meu foco é transformar grandes volumes de informação em decisões estratégicas através da análise de dados, utilizando ferramentas como **SQL**, **Python** e **Power BI**. 
+Tenho 40 anos, moro em Cabo Frio/RJ e um entusiasta de cultura pop e tecnologia. Meu foco é transformar grandes volumes de informação em decisões estratégicas através da análise de dados, utilizando ferramentas como **SQL**, **Python** e **Power BI**. 
 
 Atualmente, estou desenvolvendo projetos práticos para o meu portfólio e focado na transição de carreira para a análise de dados, em busca da minha primeira oportunidade na área.
 
