@@ -14,5 +14,5 @@ Atualmente, estou desenvolvendo projetos práticos para o meu portfólio e focad
 * [**Aquele da pizzaria**](https://github.com/amdreh/pizza_sales): Estudo de caso de análise de dados de uma pizzaria fictícia em Power BI utilizando DAX intermediário para analisar vendas e faturamento, identificando em quais pizzas, categorias, tamanhos e dias da semana vale mais a pena investir.
 
 ### 📫 Como me encontrar
-* **LinkedIn:** https://www.linkedin.com/in/analistadedados-andregarcia/
-* **Email:** amdreh@gmail.com
+* [**LinkedIn**](https://www.linkedin.com/in/analistadedados-andregarcia/)
+* [**Email**](amdreh@gmail.com)
