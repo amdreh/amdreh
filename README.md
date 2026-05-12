@@ -1,3 +1,4 @@
+[![Translate to English](https://img.shields.io/badge/Translate_to-English-blue?style=for-the-badge&logo=googletranslate)](https://github.com/amdreh/amdreh/blob/main/readme_EN.md)
 # Olá, eu sou o André Garcia! 👋
 
 ## 🚀 Sobre mim
